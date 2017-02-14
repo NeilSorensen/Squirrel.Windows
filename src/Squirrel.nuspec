@@ -14,8 +14,8 @@
       <dependency id="Mono.Cecil" version="0.9.6.1" />
     </dependencies>
 
-    <id>squirrel.windows</id>
-    <title>Squirrel for Windows</title>
+    <id>ps.squirrel.windows</id>
+    <title>Squirrel for Windows (Pluralsight Fork)</title>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>An installation and update framework for Windows applications</description>
     <copyright>Copyright GitHub© 2014</copyright>
